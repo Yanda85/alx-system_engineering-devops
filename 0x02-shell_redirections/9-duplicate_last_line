@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la < eacta >> eacta
+tail -n 1 < iacta >> iacta
